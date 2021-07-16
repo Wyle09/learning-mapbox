@@ -1,3 +1,5 @@
 env_config.yml
 .DS_Store
 .DS_Store?
+.Vscode
+settings.json
